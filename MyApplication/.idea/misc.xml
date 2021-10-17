@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.296875" />
+        <entry key="app/src/main/res/drawable/btn_back_selector.xml" value="0.5018518518518519" />
+        <entry key="app/src/main/res/drawable/flash_situation.xml" value="0.14166666666666666" />
+        <entry key="app/src/main/res/layout/activity_fragment.xml" value="0.4505208333333333" />
+        <entry key="app/src/main/res/layout/activity_generate.xml" value="0.2593340060544904" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37273550724637683" />
+        <entry key="app/src/main/res/layout/activity_scan.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_secondary.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_third.xml" value="0.3229166666666667" />
+        <entry key="app/src/main/res/layout/activity_tryactivity.xml" value="0.4296875" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.2593340060544904" />
+        <entry key="app/src/main/res/layout/toolbar_catch.xml" value="0.46770833333333334" />
+        <entry key="app/src/main/res/layout/top_title.xml" value="0.24974772956609487" />
+        <entry key="zxing/src/main/res/layout/activity_main.xml" value="0.27898550724637683" />
+        <entry key="zxing/src/main/res/layout/zxl_capture.xml" value="0.2640625" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

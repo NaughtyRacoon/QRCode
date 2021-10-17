@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">二维码集成</string>
+    <string name="input">请输入需要生成二维码的文本或网址：</string>
+    <string name="generate">生成二维码</string>
+    <string name="scan">扫描二维码</string>
+    <string name="show_edit">请输入</string>
+    <string name="qr_code">二维码</string>
+    <string name="bar_code">条形码</string>
+    <string name="permission_external_storage">App需要用到读写权限</string>
+    <string name="tips_scan_code">将二维码/条形码放入框内，即可自动扫描</string>
+    <string name="permission_camera">App扫码需要用到拍摄权限</string>
+</resources>
